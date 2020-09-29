@@ -1,4 +1,4 @@
-package com.kazale.pontointeligente.api.enums;
+package com.rgk.ponto.api.enumeration;
 
 public enum PerfilEnum {
 	ROLE_ADMIN,
